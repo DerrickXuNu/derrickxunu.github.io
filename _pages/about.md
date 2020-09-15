@@ -22,7 +22,7 @@ redirect_from:
 * I have a comrehensive understanding of the whole pipeline of deep learning products from designing the algorithms to implementing them on vehicles/smartphones.
 * My project Stop Line Detection is an important feature in [Mercedes-Benz Self-driving San José pilot](https://www.daimler.com/innovation/case/autonomous/pilot-city-san-jose.html)
 * I am very proud to be the major contributor of the commercialized project [Reno2 Ultra Dark Mode](https://oppo.custhelp.com/app/answers/detail/a_id/8883/~/what-is-ultra-dark-mode-for-reno2%3F). There are more than two millions users benifited from this project!
-* I have a great passion for academic research! I spent most of my spare time on research projects and published 7 papers in different ML conferenecs in the past 2 years.
+* I have a great passion for academic research! I spent most of my spare time on research projects and published 7 papers at different ML conferenecs in the past 2 years.
 
 # Academic Services
 * AIM at ECCV 2020
