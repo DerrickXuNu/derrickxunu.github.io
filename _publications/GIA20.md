@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/GIA20
 venue: "Advances in Image Manipulation workshop and challenges on image and video manipulation(AIM at ECCV2020)"
 date: 2020-09-15
-citation: 'Z. Meng, <b>R. Xu</b>, C.M. Ho. <i>Advances in Image Manipulation workshop and challenges on image and video manipulation.</i> <b>AIM at ECCV2020</b>.'
+citation: 'Z. Meng, <b>R. Xu</b>, C.M. Ho. <i>Advances in Image Manipulation workshop and challenges on image and video manipulation.</i> <b>AIM at ECCV20</b>.'
 ---
 [[PDF]](https://derrickxunu.github.io/files/GIA20.pdf)
 
