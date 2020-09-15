@@ -14,6 +14,6 @@ Z. Meng, <b>R. Xu</b>,  C.M. Ho. <i>Advances in Image Manipulation workshop and 
 S. Zhang, Y. Zhao, D. Nguyen,  <b>R. Xu</b>, S. Sen, J. Hester, N. Alshurafa. <i>In: Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 4.2 (June 2020). doi: 10.1145/3397313. url: https://doi.org/10.1145/3397313.</i> <b>UbiComp 2020</b>.
 
 <br>
-<img align="left" width="160" height="80" src="https://derrickxunu.github.io/files/LANE17.PNG">
+<img align="left" width="200" height="100" src="https://derrickxunu.github.io/files/LANE17.PNG">
 <b>[Lane Boundary Geometry Extraction from Satellite Imagery](https://derrickxunu.github.io/publications/LANE17)</b> <br> 
 A. Zang, <b>R. Xu</b>,  Z. Li, D. Doria. <i>ACM SIGSPATIAL Workshop on HighPrecision Maps and Intelligent Applications for Autonomous Vehicles.</i><b>AutonomousGIS2017, Best Paper Award</b>.
