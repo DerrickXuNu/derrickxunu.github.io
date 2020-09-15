@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Runsheng Xu"
 title_separator          : "-"
 name                     : &name "Runsheng Xu"
-description              : &description "Senior Deep Learning Engineer at Mercedes-Benz R&D North America"
+description              : &description "Senior Deep Learning Engineer, Mercedes-Benz R&D North America"
 url                      : https://derrickxunu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "derrickxunu/derrickxunu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Runsheng Xu"
   avatar           : "profile.png"
-  bio              : "Senior Deep Learning Engineer at Mercedes-Benz R&D North America, expert in autnomous driving, computer vision and deep learning"
+  bio              : "Senior Deep Learning Engineer, Mercedes-Benz R&D North America"
   location         : "CA,US"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/runsheng-xu/"
+  linkedin         : "runsheng-xu"
   orcid            : 
   pinterest        :
   soundcloud       :
