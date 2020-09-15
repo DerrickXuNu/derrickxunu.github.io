@@ -14,8 +14,9 @@ redirect_from:
 
 # About Me
 * I am a Senior Deep Learning Engineer [Mercedes-Benz R&D North America](https://mbrdna.com/). My main focus is on sensor fusion for autonomous driving, online HD Map learning, and topological graph learning.
-* Before join MBRDNA, I enjoyed my time working at [OPPO R&D US](https://www.oppo.com/en/), which is one of the largest smartphone company in China. 
-* I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), Prof. [Weinan Zhang](http://wnzhang.net/) and Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/).
+* Before join MBRDNA, I enjoyed my time working at [OPPO R&D US](https://www.oppo.com/en/), which is one of the largest smartphone companies in China. During that period, I mainly worked on model compression and computer vision applications on mobile devices.
+* I have also worked in several startups in the area of computer vision such as [Aerospec Technology](https://aerospec.us/) and [AlgoFace](https://www.algoface.ai/).
+* I received my master degree from [Northwestern University](https://www.northwestern.edu/). During the graduate study, I have the honor to work with [Prof. Ying Wu](http://users.eecs.northwestern.edu/~yingwu/) and [Prof. Xin Chen](http://users.eecs.northwestern.edu/~xinchen/) together.
 
 # Recent News
 * September 3, 2019. One paper accepted to NeurIPS 2019.
