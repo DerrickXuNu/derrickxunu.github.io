@@ -18,19 +18,12 @@ redirect_from:
 * I have also worked at several startups in the area of computer vision such as [Aerospec Technology](https://aerospec.us/) and [AlgoFace](https://www.algoface.ai/).
 * I received my master degree from [Northwestern University](https://www.northwestern.edu/). During the graduate study, I have the honor to work with [Prof. Ying Wu](http://users.eecs.northwestern.edu/~yingwu/) and [Prof. Xin Chen](http://users.eecs.northwestern.edu/~xinchen/).
 
-# Recent News
-* September 3, 2019. One paper accepted to NeurIPS 2019.
-* April 21, 2019. Three papers accepted to ICML 2019.
-* November 3, 2018. One paper accepted to AAAI 2019.
-* August 9, 2017. I won the [Best Paper Award Honorable Mention](https://lantaoyu.github.io/files/sigir17-award.jpg) at [SIGIR 2017](http://sigir.org/sigir2017/program/awards/).
-* August 6 - August 12, 2017. I attended the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval held in Tokyo, Japan.
-* July 26, 2017. I gave an [online talk](https://zhuanlan.zhihu.com/p/28151434) on ["Generative Adversarial Networks for Discrete Data"](http://lantaoyu.com/files/2017-07-26-gan-for-discrete-data.pdf) at [PaperWeekly](https://zhuanlan.zhihu.com/paperweekly).
-* May 19, 2017. A paper titled "A Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors’ Demonstration" was accepted to [KDD 2017](http://www.kdd.org/kdd2017/).
-* April 19, 2017. I gave a [talk](http://lantaoyu.com/files/2017-04-19-gans-for-ir.pdf) on applying adversarial training techniques for information retrieval at Apex Lab, Shanghai Jiao Tong University.
-* April 11, 2017. A paper titled "IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models" was accepted to [SIGIR 2017](http://sigir.org/sigir2017/).
-* February 4 - February 9, 2017. I attended the Thirty-First AAAI Conference on Artificial Intelligence held in San Francisco, California, US and gave a [talk](http://lantaoyu.com/files/2017-02-07-aaai-seqgan.pdf) on applying adversarial training for generating sequential data.
-* November 11, 2016. A paper titled "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient" was accepted to [AAAI 2017](http://www.aaai.org/Conferences/AAAI/aaai17.php).
+# Highlights
+* I have a comrehensive understanding of the whole pipeline of deep learning products from designing the algorithms to implementing them on vehicles/smartphones.
+* My project Stop Line Detection is an important feature in [Mercedes-Benz Self-driving San José pilot](https://www.daimler.com/innovation/case/autonomous/pilot-city-san-jose.html)
+* I am very proud to be the major contributor of the commercialized project [Reno2 Ultra Dark Mode](https://oppo.custhelp.com/app/answers/detail/a_id/8883/~/what-is-ultra-dark-mode-for-reno2%3F). There are more than two millions users benifited from this project!
+* I have a great passion for academic research! I spent most of my spare time on research projects and published 7 papers in different ML conferenecs in the past 2 years.
 
 # Academic Services
-* Conference Reviewer: AAAI 2019, AAAI 2020, ICML 2020 (top reviewer award), NeurIPS 2020, AAAI 2021, ICLR 2021, AISTATS 2021.
-* Journal Reviewer: Journal of Artificial Intelligence Research (JAIR)
+* AIM at ECCV 2020
+* ICIP 2020
