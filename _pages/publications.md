@@ -16,4 +16,4 @@ S. Zhang, Y. Zhao, D. Nguyen,  <b>R. Xu</b>, S. Sen, J. Hester, N. Alshurafa. <i
 <br>
 <img align="left" width="200" height="100" src="https://derrickxunu.github.io/files/LANE17.PNG">
 <b>[Lane Boundary Geometry Extraction from Satellite Imagery](https://derrickxunu.github.io/publications/LANE17)</b> <br> 
-A. Zang, <b>R. Xu</b>,  Z. Li, D. Doria. <i>ACM SIGSPATIAL Workshop on HighPrecision Maps and Intelligent Applications for Autonomous Vehicles.</i><b>AutonomousGIS2017, Best Paper Award</b>.
+A. Zang, <b>R. Xu</b>,  Z. Li, D. Doria. <i>ACM SIGSPATIAL Workshop on HighPrecision Maps and Intelligent Applications for Autonomous Vehicles.</i> <b>AutonomousGIS2017, Best Paper Award</b>.
