@@ -26,7 +26,7 @@ A. Zang, <b>R. Xu</b>,  Z. Li, D. Doria. <i>ACM SIGSPATIAL Workshop on HighPreci
  
 
 <br>
-<img align="left" width="200" height="160" src="https://derrickxunu.github.io/files/HDMA20.PNG">
+<img align="left" width="160" height="160" src="https://derrickxunu.github.io/files/HDMA20.PNG">
 <b>[Hierarchical Road Topology Learning for Urban Map-less Driving](https://derrickxunu.github.io/publications/HDMA20)</b> <br> 
  L Zhang, F. Tafazzoli, G. Krehl, <b>R. Xu</b>, T. Rehfeld, M. Schier, A. Seal.  <i>Submitted to NIPS2020</i>
  
