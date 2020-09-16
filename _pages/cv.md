@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Industrial Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Industrial Experience
-======
 * [Mercedes-Benz R&D North America](https://mbrdna.com/), Senior Deep Learning Engineer
   * Online HD Map learning
   * Topological graph learning
