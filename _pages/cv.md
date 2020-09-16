@@ -9,51 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Industrial Experience
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* [Mercedes-Benz R&D North America](https://mbrdna.com/), Senior Deep Learning Engineer
+  * Online HD Map learning
+  * Topological graph learning
+  * Stop line detection
+  * Sensor fusion
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* [OPPO R&D US](https://www.oppo.com/en/), Deep Learning Engineer
+  * Image denoising on mobile
+  * Instance segmentation
+  * Video understanding
+  * Face landmark detection on mobile
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* [AlgoFace](https://www.algoface.ai/), Computer Vision Engineer
+  * Virtual Makeup
+  * Color and texture transfer
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [Aerospec Technology](https://aerospec.us/), Computer Vision Intern
+  * Computer vision applications on drones
+
+* [Northwestern Habits Lab](http://www.nalshurafa.com/), Research Assistance
+  * Action recognition in ego-camera
+  * Android development for bluetooth app
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
