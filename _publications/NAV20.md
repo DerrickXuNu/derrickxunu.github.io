@@ -2,7 +2,7 @@
 title: "Empowering Personal Navigation Technologies with Road Safety Awareness"
 collection: publications
 permalink: /publications/NAV20
-venue: "ArXiv 2020"
+venue: "ArXiv"
 date: 2020-09-15
 citation: '<b>R. Xu</b>, S. Zhang, P. Xiong, A. Lin, B. Hecht. <i>ArXiv 2020.</i>'
 ---

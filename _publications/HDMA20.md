@@ -2,7 +2,7 @@
 title: "Hierarchical Road Topology Learning for Urban Map-less Driving"
 collection: publications
 permalink: /publications/HDMA20
-venue: "Submitted to NIPS2020"
+venue: "Submitted to NIPS"
 date: 2020-09-15
 ---
 [[PDF]](https://derrickxunu.github.io/files/HDMA20.pdf)
