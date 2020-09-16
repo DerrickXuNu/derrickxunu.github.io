@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/LANE17
 venue: "ACM SIGSPATIAL Workshop on HighPrecision Maps and Intelligent Applications for Autonomous Vehicles(AutonomousGIS 2017)"
 date: 2017-07-15
-citation: 'A. Zang, <b>R. Xu</b>,  Z. Li, D. Doria. <i>>ACM SIGSPATIAL Workshop on HighPrecision Maps and Intelligent Applications for Autonomous Vehicles.</i> <b>AutonomousGIS, 2017</b>.'
+citation: 'A. Zang, <b>R. Xu</b>,  Z. Li, D. Doria. <i>ACM SIGSPATIAL Workshop on HighPrecision Maps and Intelligent Applications for Autonomous Vehicles.</i> <b>AutonomousGIS, 2017</b>.'
 ---
 [[PDF]](https://derrickxunu.github.io/files/LANE17.pdf)
 
