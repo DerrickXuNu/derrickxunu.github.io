@@ -25,6 +25,6 @@ A. Zang, <b>R. Xu</b>,  Z. Li, D. Doria. <i>ACM SIGSPATIAL Workshop on HighPreci
  L Zhang, F. Tafazzoli, G. Krehl, <b>R. Xu</b>, T. Rehfeld, M. Schier, A. Seal  <i>Submitted to NIPS2020</i>
  
 <br>
-<img align="left" width="160" height="60" src="https://derrickxunu.github.io/files/NAV20.PNG">
+<img align="left" width="160" height="80" src="https://derrickxunu.github.io/files/NAV20.PNG">
 <b>[Empowering Personal Navigation Technologies with Road Safety Awareness](https://derrickxunu.github.io/publications/NAV20)</b> <br> 
  <b>R. Xu</b>, S. Zhang, P. Xiong, A. Lin, B. Hecht. <i>ArXiv 2020.</i>
