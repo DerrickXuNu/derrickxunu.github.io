@@ -20,7 +20,7 @@ S. Zhang, Y. Zhao, D. Nguyen,  <b>R. Xu</b>, S. Sen, J. Hester, N. Alshurafa. <i
 A. Zang, <b>R. Xu</b>,  Z. Li, D. Doria. <i>ACM SIGSPATIAL Workshop on HighPrecision Maps and Intelligent Applications for Autonomous Vehicles.</i> <b>AutonomousGIS2017, Best Paper Award</b>.
 
 <br>
-<img align="left" width="160" height="500" src="https://derrickxunu.github.io/files/STOP20.PNG">
+<img width="160" height="160" src="https://derrickxunu.github.io/files/STOP20.PNG">
 <b>[Holistic Grid Fusion Based Stop Line Estimation](https://derrickxunu.github.io/publications/STOP20)</b> <br> 
 <b>R. Xu</b>, F. Tafazzoli,  L Zhang,  G. Krehl, T. Rehfeld, A. Seal.  <i>ArXiv 2020.</i> <br />
  
