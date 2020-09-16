@@ -1,5 +1,5 @@
 ---
-title: "Hierarchical Road Topology Learning for Urban Map-less Driving"
+title: "Holistic Grid Fusion Based Stop Line Estimation"
 collection: publications
 permalink: /publications/STOP20
 venue: "ArXiv"
