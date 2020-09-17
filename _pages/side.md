@@ -17,4 +17,4 @@ author_profile: true
 <br>
 <img align="left" width="256" height="256" src="https://derrickxunu.github.io/files/fd.gif">
 <b>Real-time Face Landmark Detection on mobile devices</b> <br> 
-[[CODE:Coming Soon]] <br>
+[CODE:Coming Soon] <br>
