@@ -40,8 +40,3 @@ A. Zang, <b>R. Xu</b>,  Z. Li, D. Doria. <i>ACM SIGSPATIAL Workshop on HighPreci
 <b>[Estimating Caloric Intake in Bedridden Hospital Patients with Audio and Neck-worn Sensors](https://derrickxunu.github.io/publications/EAT18)</b> <br> 
  S. Zhang, D. Nguyen, G. Zhang, <b>R. Xu</b>, N. Maglaveras, N. Alshurafa. <i> IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies.</i><b>CHASE 2018</b>.
 
----
-title: "Side Project"
-permalink: /publications/
-author_profile: true
----
