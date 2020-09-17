@@ -14,7 +14,7 @@ redirect_from:
 
 # About Me
 * I am a Senior Deep Learning Engineer at [Mercedes-Benz R&D North America](https://mbrdna.com/). My main focus is on sensor fusion for autonomous driving, online HD Map learning, and topological graph learning.
-* Before join MBRDNA, I enjoyed my time working at [OPPO R&D US](https://www.oppo.com/en/), which is one of the largest smartphone companies in China. During that period, I mainly worked on model compression and computer vision applications on mobile devices.
+* Before join MBRDNA, I enjoyed my time working at [OPPO R&D US](https://www.oppo.com/en/), which is one of the largest smartphone companies in the world. During that period, I mainly worked on model compression and computer vision applications on mobile devices.
 * I have also worked at several startups in the area of computer vision such as [Aerospec Technology](https://aerospec.us/) and [AlgoFace](https://www.algoface.ai/).
 * I received my master degree from [Northwestern University](https://www.northwestern.edu/). During the graduate study, I have the honor to work with [Prof. Ying Wu](http://users.eecs.northwestern.edu/~yingwu/) and [Prof. Xin Chen](http://users.eecs.northwestern.edu/~xinchen/).
 
@@ -25,5 +25,5 @@ redirect_from:
 * I have a great passion for academic research! I spent most of my spare time on research projects and published 7 papers at different ML conferenecs in the past 2 years.
 
 # Academic Services
-* AIM at ECCV 2020
-* ICIP 2020
+* Reviewer for AIM at ECCV 2020
+* Reviewer for ICIP 2020
