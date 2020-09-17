@@ -9,8 +9,6 @@ main:
   - title: "Industrial Experience"
     url: /cv/
         
-  - title: "Research Projects"
-    url: /markdown/
-    
-  - title: "Contact"
-    url: /contact/
+  - title: "Side Projects"
+    url: /side/
+
