@@ -1,6 +1,6 @@
 ---
-title: "Publications"
-permalink: /publications/
+title: "Side Projects"
+permalink: /side/
 author_profile: true
 ---
 <br>
