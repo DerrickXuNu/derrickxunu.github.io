@@ -18,3 +18,8 @@ author_profile: true
 <img align="left" width="256" height="256" src="https://derrickxunu.github.io/files/fd.gif">
 <b>Real-time Face Landmark Detection on mobile devices</b> <br> 
 [CODE:Coming Soon] <br>
+
+<br>
+<img align="left" width="256" height="256" src="https://derrickxunu.github.io/files/makeup.gif">
+<b>Real-time Virtual Makeup on mobile devices</b> <br> 
+[CODE:Coming Soon] <br>
