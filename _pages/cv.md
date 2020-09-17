@@ -17,6 +17,7 @@ redirect_from:
 
 * [OPPO R&D US](https://www.oppo.com/en/), Deep Learning Engineer
   * Image denoising on mobile
+  * Model comression
   * Instance segmentation
   * Video understanding
   * Face landmark detection on mobile
