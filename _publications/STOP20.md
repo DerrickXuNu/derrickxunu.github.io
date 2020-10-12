@@ -2,8 +2,9 @@
 title: "Holistic Grid Fusion Based Stop Line Estimation"
 collection: publications
 permalink: /publications/STOP20
-venue: "ArXiv"
+venue: "International Conference on Pattern Recognition(ICPR20)"
 date: 2020-09-15
+citation: '<b>R. Xu</b>, F. Tafazzoli,  L Zhang,  G. Krehl, T. Rehfeld, A. Seal.<i>International Conference on Pattern Recognition.</i> <b>ICPR 2020</b>'
 ---
 [[PDF]](https://derrickxunu.github.io/files/STOP20.pdf)
 
