@@ -4,9 +4,15 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<img align="left" width="200" height="200" src="https://derrickxunu.github.io/files/v2xvit.png">
+<b>[V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer](https://arxiv.org/pdf/2203.10638.pdf)</b> <br> 
+<b>Runsheng Xu*</b>, Hao Xiang*, Zhengzhong Tu*, Xin Xia, Ming-Tsung Yang, Jiaqi Ma <br> 
+<i>Europe Computer Vision Conference</i>(<b>ECCV</b>), 2022 <br />
+
+<br>
 <img align="left" width="200" height="200" src="https://derrickxunu.github.io/files/STOP20.PNG">
 <b>[Holistic Grid Fusion Based Stop Line Estimation](https://derrickxunu.github.io/publications/STOP20)</b> <br> 
-<b>R. Xu</b>, F. Tafazzoli,  L Zhang,  G. Krehl, T. Rehfeld, A. Seal.  <i>International Conference on Pattern Recognition.</i> <b>ICPR 2020</b><br />
+<b>Runsh Xu</b>, F. Tafazzoli,  L Zhang,  G. Krehl, T. Rehfeld, A. Seal.  <i>International Conference on Pattern Recognition.</i> <b>ICPR 2020</b><br />
 
 <br>
 <img align="left" width="160" height="160" src="https://derrickxunu.github.io/files/GIA20.PNG">
