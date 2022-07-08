@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<img align="left" width="300" height="350" src="https://derrickxunu.github.io/files/v2xvit.png">
+<img align="left" width="350" height="300" src="https://derrickxunu.github.io/files/v2xvit.png">
 <b>[V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer](https://arxiv.org/pdf/2203.10638.pdf)</b> <br> 
 <b>Runsheng Xu\*</b>, Hao Xiang\*, Zhengzhong Tu\*, Xin Xia, Ming-Tsung Yang, Jiaqi Ma. <i>Europe Computer Vision Conference</i>(<b>ECCV</b>), 2022 <br />
 
