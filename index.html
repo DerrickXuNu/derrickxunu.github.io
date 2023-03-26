@@ -20,6 +20,20 @@
         <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png" />
         <link rel="canonical" href="https://tpbull.github.io/" />
         <title>Runsheng Xu's Website</title>
+        <script>
+            async function fetchGitHubStars(repo, elementId) {
+                const response = await fetch(`https://api.github.com/repos/${repo}`);
+                const data = await response.json();
+                const stars = data.stargazers_count;
+                const starElement = document.getElementById(elementId);
+                starElement.textContent = `(${stars} Stars)`;
+            }
+
+            function fetchAllGitHubStars() {
+                fetchGitHubStars("DerrickXuNu/CoBEVT", "cobe-stars");
+                fetchGitHubStars("DerrickXuNu/v2x-vit", "v2x-stars");
+            }
+        </script>
         <script>var _hmt = _hmt || []; (function() {
                 var hm = document.createElement("script");
                 hm.src = "https://hm.baidu.com/hm.js?c83bf8b7e066e7c41af36a85a5651bf2";
@@ -182,7 +196,7 @@
 <!--                            <hr style="filter:alpha(opacity=100,finishopacity=0,style=2);background-color:##67c077;height:8px" />-->
                             <ul class="ul-interests">
                                 <li>
-                                    02/2023: 2 papers are accepted at <b>CVPR 2023</b>! 
+                                    02/2023: 2 papers are accepted at <b>CVPR 2023</b>, including 1 <b>highlight</b>! 
                                 </li>
                                 <li>
                                     02/2023: 2 papers are accepted at <b>IEEE Transactions on Intelligent Vehicles</b>! 
@@ -266,8 +280,8 @@
                             <a href="https://scholar.google.com/citations?user=9D4aG8AAAAAJ&hl=en">Bolei Zhou</a>,
                             <a href="https://scholar.google.com/citations?user=S3cQz1AAAAAJ&hl=en" target="_blank">Jiaqi Ma</a>
                             <br>
-                            <b>CVPR 2023 
-                            <a href="" target="_blank"> <small>[Project]</small></a>
+                            <b>CVPR 2023, <span style="color:red;">Highlight (2.5% of 9155 submissions)</span>
+                            <a href="https://mobility-lab.seas.ucla.edu/v2v4real/" target="_blank"> <small>[Project]</small></a>
                             <a href="https://arxiv.org/abs/2303.07601" target="_blank"> <small>[Paper]</small></a>
                             <a href="https://github.com/ucla-mobility/V2V4Real" target="_blank"> <small>[Code]</small></a> <br></b>
 
@@ -279,7 +293,7 @@
                                 <img class="img-fluid img-rounded" src="/img/papers/coco3d.png" style="border:1px solid black" alt="">
                             </div>
                             <div class="col-md-9">
-                            <b><font color="black">CoCa3D: Collaboration Helps Camera Overtake LiDAR in 3D Detection</font></b><br>
+                            <b><font color="black">Collaboration Helps Camera Overtake LiDAR in 3D Detection</font></b><br>
                             <a href="" target="_blank">Yue Hu</a>,
                             <a href="" target="_blank">Yifan Lu</a>,
                             <a href="https://scholar.google.com/citations?user=QW6Ro8IAAAAJ&hl" target="_blank"><b>Runsheng Xu</b></a>,
@@ -396,7 +410,7 @@
                         </div>
                     </div><hr>		
                     
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="col-md-3">
                             <img class="img-fluid img-rounded" src="/img/papers/bevgen.png" style="border:1px solid black" alt="">
                         </div>
@@ -411,7 +425,7 @@
 
                         </div>
                     </div><hr>		
-                    
+                     -->
 
 
                     <div class="row">
@@ -435,7 +449,7 @@
             <br>
             <b>ECCV 2022 
             <a href="https://arxiv.org/abs/2203.10638" target="_blank"> <small>[Paper]</small></a>
-            <a href="https://github.com/DerrickXuNu/v2x-vit" target="_blank"> <small>[Code]</small></a> <br></b> 
+            <a href="https://github.com/DerrickXuNu/v2x-vit" target="_blank"> <small>[Code]</small></a> <span id="v2x-stars"></span><br></b> 
 
             </div>
         </div><hr>	
@@ -455,7 +469,7 @@
             <br>
             <b>CoRL 2022 
             <a href="https://arxiv.org/abs/2207.02202" target="_blank"> <small>[Paper]</small></a>
-            <a href="https://github.com/DerrickXuNu/CoBEVT" target="_blank"> <small>[Code]</small></a> <br></b>
+            <a href="https://github.com/DerrickXuNu/CoBEVT" target="_blank"> <small>[Code]</small></a> <span id="cobe-stars"></span> <br></b>
 
 
             </div>
