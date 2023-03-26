@@ -14,7 +14,7 @@
         <link rel="stylesheet" href="/css/academicons.min.css" />
         <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono" />
         <link rel="stylesheet" href="/css/hugo-academic.css" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/octicons.min.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/16.0.0/octicons.min.css" />
         <link rel="alternate" href="https://tpbull.github.io/index.xml" type="application/rss+xml" title="Runsheng Xu's Website" />
         <link rel="feed" href="https://tpbull.github.io/index.xml" type="application/rss+xml" title="Runsheng Xu's Website" />
         <link rel="icon" type="image/png" href="/img/ucla.png" />
@@ -27,7 +27,7 @@
                 const data = await response.json();
                 const stars = data.stargazers_count;
                 const starElement = document.getElementById(elementId);
-                starElement.innerHTML = `<span class="octicon octicon-star"></span> ${stars}`;
+                starElement.innerHTML = `<span class="octicon octicon-star-fill"></span> ${stars}`;
             }
 
             function fetchAllGitHubStars() {
